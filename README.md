@@ -19,10 +19,7 @@ Lo que aprenderás
 - Macros y VBA en Excel
 Y muchísimos temas más
 
-<div id="header" align="center">
-  <img src="[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png](https://www.cediformacio.com/wp-content/uploads/2021/07/curso-Excel-inicio-medio-avanzado.jpg)](https://tse2.mm.bing.net/th?id=OIP.19gUcUFg_j0hHcIylxSwfwHaDh&pid=Api&P=0&h=180)" width="300" /></br>
-</div>
-
+https://www.cediformacio.com/wp-content/uploads/2021/07/curso-Excel-inicio-medio-avanzado.jpg
 ##Master en Excel más completo. Incluye Funciones, Tablas Dinámicas, Gráficos, Power Query , Macros y más a profundidad!
 ```
 Formulas aquí
