@@ -20,7 +20,7 @@ Lo que aprenderás
 Y muchísimos temas más
 
 
-##Master en Excel más completo. Incluye Funciones, Tablas Dinámicas, Gráficos, Power Query , Macros y más a profundidad!
+# Master en Excel más completo. Incluye Funciones, Tablas Dinámicas, Gráficos, Power Query , Macros y más a profundidad!
 ```
 Formulas aquí
 ```
