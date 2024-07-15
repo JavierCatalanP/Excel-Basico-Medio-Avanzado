@@ -1,0 +1,21 @@
+1. Cerrar cualquier libro abierto
+
+2. Crear un nuevo libro llamado PracticaCeldas.xlsx
+
+3. Renombrar la Hoja por: PracticaCeldas
+
+4. Asignar los siguientes valores a las celdas indicadas
+
+A1 - Hola
+
+B3 - Adios
+
+C2 - 1000
+
+D6 - 2000
+
+C1 - 12/10/2030
+
+5. Seleccionar todo el rango de celdas desde
+
+A1 hasta D6 y poner nombre PrimerRango

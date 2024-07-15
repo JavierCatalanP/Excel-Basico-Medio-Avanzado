@@ -1,0 +1,27 @@
+1. Crear un libro llamado EntradasSalidas.xlsx
+
+
+
+MES VENTAS GASTOS   
+
+--------------------------------
+
+Ene $150.00 -$100.00
+
+Feb $330.00 $-250.00
+
+Mar $225.00 $-180.00
+
+
+
+2. El valor de Mar debe ser generado con la función de autocompletar
+
+
+
+3. Aplicar el siguiente formato manualmente al rango de datos:
+(imagen en archivo = 02-08-EjercicioManejoDatosExcel-CUE)
+
+4. Los números deben tener formato Contabilidad
+
+Preguntas de esta tarea
+Agrega una imagen con la solución del ejercicio!
