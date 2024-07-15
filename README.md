@@ -24,10 +24,8 @@ Lo que aprenderás
 Y muchísimos temas más
 
 
-# Master en Excel más completo. Incluye Funciones, Tablas Dinámicas, Gráficos, Power Query , Macros y más a profundidad!
-```
-Formulas aquí
-```
+# Master en Excel más completo. Incluye Funciones, Tablas Dinámicas, Gráficos, Power Query , Macros y más a profundidad!``
+
 El temario de nuestro curso incluye:
 
 - Introducción a Excel
