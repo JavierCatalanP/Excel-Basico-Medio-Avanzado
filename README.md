@@ -1,9 +1,13 @@
 # Bienvendios a las practicas del curso "Universidad Excel" en Udemy
 # Excel-Básico - Medio - Avanzado
-Practicas sacada del curso en Udemy, link del curso: https://www.udemy.com/share/103uHG3@6uD81nfZqET-1SzX4V92jHF_9MtKHRY6lUUpexzHQ_HdoJA3wmUftGf_iEB_90Sz/ 
+
 <div id="header" align="center">
+ 
+<img src="https://archive.org/download/universidad-excel-2021-basico-intermedio-y-avanzado/universidad-excel-2021-basico-intermedio-y-avanzado.thumbs/Universidad%20Excel%202021%20-%20B%C3%A1sico,%20Intermedio%20y%20Avanzado!_000028.jpg" width="300" /></br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EA4E43&random=false&width=435&lines=Curso+ Impartido+por+Ubaldo+Acosta%3A" alt="Typing SVG" /></a>
  </div>
+Practicas sacada del curso en Udemy, link del curso: https://www.udemy.com/share/103uHG3@6uD81nfZqET-1SzX4V92jHF_9MtKHRY6lUUpexzHQ_HdoJA3wmUftGf_iEB_90Sz/ 
 
 Lo que aprenderás
 - Aprenderán a utilizar Microsoft Excel desde Cero hasta Avanzado
@@ -20,10 +24,8 @@ Lo que aprenderás
 Y muchísimos temas más
 
 
-# Master en Excel más completo. Incluye Funciones, Tablas Dinámicas, Gráficos, Power Query , Macros y más a profundidad!
-```
-Formulas aquí
-```
+# Master en Excel más completo. Incluye Funciones, Tablas Dinámicas, Gráficos, Power Query , Macros y más a profundidad!``
+
 El temario de nuestro curso incluye:
 
 - Introducción a Excel
