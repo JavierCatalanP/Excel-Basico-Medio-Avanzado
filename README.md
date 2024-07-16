@@ -142,4 +142,36 @@ URL aquí
     - 12.6.- Función Anidadas en Excel
     - 12.7.- Función Anidadas - Ejercicios
     - 12.8.- Funciones Anidadas - Solución
--   
+```
+URL aquí
+```
+- SECCIÓN 13 - EJERCICIOS EXTRAS DE FUNCIONES
+  -  13.1.- Conversión de Número a Texto - Ejercicio
+  -  13.2.- Conversión de Número a Texto - Solución
+  -  13.3.- Cálculo del Bono - Ejercicio
+  -  13.4.- Cálculo del Bono - Solución
+```
+URL aquí
+```
+- SECCIÓN 14 - MÁS FUNCIONES EN EXCEL 
+  - 14.1.- Función Sumar.Si en Excel
+  - 14.2.- Función Promedio.Si en Excel 
+  - 14.3.- Función Contar.Si en Excel
+  - 14.4.- Función Sumar.Si.Conjunto en Excel
+  - 14.5.- Función Promedio.Si.Conjunto en Excel
+  - 14.6.- Función Contar.Si.Conjunto en Excel
+```
+URL aquí
+```
+- SECCIÓN 15 - REVISIÓN DE ERRORES EN FÓRMULAS EN EXCEL
+  - 15.1.- Mostrar todas las fórmulas usadas en un documento en Excel
+  - 15.2.- Rastreo de Precedentes en Excel
+  - 15.3.- Rastreo de Dependientes en Excel
+  - 15.4.- Ventana de Inspección en Excel
+  - 15.5.- Evaluación de Fórmulas en Excel
+  - 15.6.- Evaluación de Fórmulas en Excel - parte 2
+  - 15.7.- Revisión de Errores en Fórmulas de Excel
+```
+URL aquí
+```
+- SECCIÓN 16 - 
