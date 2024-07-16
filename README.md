@@ -27,7 +27,7 @@ Y muchísimos temas más
 # Master en Excel más completo. Incluye Funciones, Tablas Dinámicas, Gráficos, Power Query , Macros y más a profundidad!``
 
 El temario de nuestro curso incluye:
-- SECCIÓN 1 - INTRODUCCIÓN A EXCEL
+- SECCIÓN 01 - INTRODUCCIÓN A EXCEL
     - 1.1.- Introducción a Excel
     - 1.2.- Manejo de Libros en Excel
     - 1.3.- Uso de Hojas en Excel
@@ -37,7 +37,7 @@ El temario de nuestro curso incluye:
 ```
 https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/1.-Introduccion_a_Excel
 ```
-- SECCIÓN 2 - MANEJOS DE DATOS EN EXCEL
+- SECCIÓN 02 - MANEJOS DE DATOS EN EXCEL
     - 2.1.- Manejo de Datos en Excel
     - 2.2.- Autorrellenado de Datos en Excel
     - 2.3.- Mostrar u Ocultar Celdas
@@ -48,7 +48,7 @@ https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/1.-Intro
 ```
 https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/2.-%20Manejo%20de%20Datos%20en%20Excel
 ```
-- SECCIÓN 3 - MANEJO DE CELDÁS, FÓRMULAS Y FUNCIONES EN EXCEL
+- SECCIÓN 03 - MANEJO DE CELDÁS, FÓRMULAS Y FUNCIONES EN EXCEL
     - 3.1.- Manejo de Fórmulas en Excel
     - 3.2.- Manejo de Funciones en Excel
     - 3.3.- Selección de Rangos
@@ -70,7 +70,7 @@ https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/2.-%20Ma
 ```
 https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/3.-%20Manejo%20de%20Celdas%20Formulas%20y%20Funciones%20en%20Excel
 ```
-- SECCIÓN 4 - LISTAS EN EXCEL
+- SECCIÓN 04 - LISTAS EN EXCEL
     - 4.1.- Inmovilizar Páneles en Excel
     - 4.2.- Ordenamiento de Celdas en Excel
     - 4.3.- Aplicar Filtros en una Lista de Excel
@@ -79,7 +79,7 @@ https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/3.-%20Ma
 ```
 https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/4.-%20Listas%20en%20Excel
 ```
-- SECCIÓN 5 - TABLAS EN EXCEL
+- SECCIÓN 05 - TABLAS EN EXCEL
     - 5.1.- Tablas en Excel
     - 5.2.- Segmentación de Datos de una Tabla
     - 5.3.- Buscar y Reemplazar Texto en Excel
@@ -87,3 +87,59 @@ https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/4.-%20Li
 ```
 https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/5.-%20Tablas%20en%20Excel
 ```
+- SECCIÓN 06 - IMPRESIÓN EN EXCEL
+    - 6.1.- Cabecero y Pie de Página en Excel
+    - 6.2.- Ajustar Elementos en una Hoja
+    - 6.3.- Impresión de Títulos
+```
+URL aquí
+```
+- SECCIÓN 07 - GRÁFOCOS EN EXCEL
+    - 7.1.- Creación de Gráficos en Excel
+    - 7.2.- Creación de Gráficos en Excel - parte 2
+    - 7.3.- Mini Gráficos en Excel
+    - 7.4.- Ejercicio de Gráficos en Excel
+```
+URL aquí
+```
+- SECCIÓN 08 - ESQUEMAS Y SUBTOTALES EN EXCEL
+    - 8.1.- Manejo de Esquemas en Excel
+    - 8.2.- Manejo de Subtotales en Excel
+    - 8.3.- Solución del Ejercicio - Manejo de Subtotales
+```
+URL aquí
+```
+- SECCIÓN 09 - VISTAS EN EXCEL
+    - 9.1.- Manejo de Vistas en Excel
+    - 9.2.- Nueva Ventana en Excel
+    - 9.3.- Vistas Personalizadas en Excel
+```
+URL aquí
+```
+- SECCIÓN 10 - ENZALANDO ARCHIVOS EN EXCEL
+    - 10.1.- Manejo de Fórmulas con distintos Archivos en Excel
+    - 10.2.- Ejercicio - Manejo de Fórmulas con distintos Archivos
+    - 10.3.- Enlace entre Archivos
+    - 10.4.- Consolidación de Datos en Excel
+```
+URL aquí
+```
+- SECCIÓN 11 - MANEJO DE FUNCIONES DE TEXTO EN EXCEL
+    - 11.1.- Funciones de Texto en Excel
+    - 11.2.- Función Extrae en Excel
+    - 11.3.- Función Derecha en Excel
+    - 11.4.- Función Concatenar en Excel
+    - 11.5.- Funciones de Mayúsculas, Minúsculas y Nombre Propio en Excel
+```
+URL aquí
+```
+- SECCIÓN 12 - MANEJOS DE FUNCIONES LÓGICAS EN EXCEL
+    - 12.1.- Operadores Lógicos de Comparación en Excel
+    - 12.2.- Operadores Lógicos de Comparación en Excel - parte 2
+    - 12.3.- Función Y en Excel
+    - 12.4.- Función O en Excel
+    - 12.5.- Función Si en Excel
+    - 12.6.- Función Anidadas en Excel
+    - 12.7.- Función Anidadas - Ejercicios
+    - 12.8.- Funciones Anidadas - Solución
+-   
