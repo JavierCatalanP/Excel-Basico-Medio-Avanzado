@@ -48,3 +48,42 @@ https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/1.-Intro
 ```
 https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/2.-%20Manejo%20de%20Datos%20en%20Excel
 ```
+- SECCIÓN 3 - MANEJO DE CELDÁS, FÓRMULAS Y FUNCIONES EN EXCEL
+    - 3.1.- Manejo de Fórmulas en Excel
+    - 3.2.- Manejo de Funciones en Excel
+    - 3.3.- Selección de Rangos
+    - 3.4.- Precedencia de Operadores en Excel
+    - 3.5.- Más sobre Manejo de Celdas en Excel
+    - 3.6.- Manejar Varias Hojas de Excel
+    - 3.7.- Manejo de Celdas en Distintas Hojas en Excel
+    - 3.8.- Referencias Relativas y Referencias Absolutas en Excel
+    - 3.9.- Comentarios en Excel
+    - 3.10.- Atajos más comunes en Excel - parte 1
+    - 3.11.- Atajos más comunes en Excel - parte 2
+    - 3.12.- Atajos más comunes en Excel - parte 3
+    - 3.13.- Ejercicio Control Ingresos - Egresos en Excel
+    - 3.14.- Solución Ejercicio Control Ingresos - Egresos - parte 1 
+    - 3.15.- Solución Ejercicio Control Ingresos - Egresos - parte 2
+    - 3.16.- Solución Ejercicio Control Ingresos - Egresos - parte 3
+    - 3.17.- Solución Ejercicio Control Ingresos - Egresos - parte 4
+    - 3.18.- Solución Ejercicio Control Ingresos - Egresos - parte 5
+```
+https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/3.-%20Manejo%20de%20Celdas%20Formulas%20y%20Funciones%20en%20Excel
+```
+- SECCIÓN 4 - LISTAS EN EXCEL
+    - 4.1.- Inmovilizar Páneles en Excel
+    - 4.2.- Ordenamiento de Celdas en Excel
+    - 4.3.- Aplicar Filtros en una Lista de Excel
+    - 4.4.- Quitar Elementos Duplicados de una Lista
+    - 4.5.- Filtros Avanzados en Excel
+```
+https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/4.-%20Listas%20en%20Excel
+```
+- SECCIÓN 5 - TABLAS EN EXCEL
+    - 5.1.- Tablas en Excel
+    - 5.2.- Segmentación de Datos de una Tabla
+    - 5.3.- Buscar y Reemplazar Texto en Excel
+    - 5.4.- Valiación de Datos usando una Lista en Excel
+```
+https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/5.-%20Tablas%20en%20Excel
+```
