@@ -7,7 +7,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EA4E43&random=false&width=435&lines=Curso+ Impartido+por+Ubaldo+Acosta%3A" alt="Typing SVG" /></a>
  </div>
-Practicas sacada del curso en Udemy, link del curso: [Aquí](https://www.udemy.com/share/103uHG3@6uD81nfZqET-1SzX4V92jHF_9MtKHRY6lUUpexzHQ_HdoJA3wmUftGf_iEB_90Sz/)
+Practicas sacada del curso en Udemy, link del curso:[Aquí](https://www.udemy.com/share/103uHG3@6uD81nfZqET-1SzX4V92jHF_9MtKHRY6lUUpexzHQ_HdoJA3wmUftGf_iEB_90Sz/)
 
 Lo que aprenderás
 - Aprenderán a utilizar Microsoft Excel desde Cero hasta Avanzado
