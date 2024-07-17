@@ -7,8 +7,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EA4E43&random=false&width=435&lines=Curso+ Impartido+por+Ubaldo+Acosta%3A" alt="Typing SVG" /></a>
  </div>
-Practicas sacada del curso en Udemy, 
-- [link del curso Aquí](https://www.udemy.com/course/universidad-excel-microsoft-tablas-dinamicas-dashboard-macros-vba/?couponCode=THANKSLEARNER24)
+Practicas sacada del curso en Udemy
+
+- [Link del curso Aquí](https://www.udemy.com/course/universidad-excel-microsoft-tablas-dinamicas-dashboard-macros-vba/?couponCode=THANKSLEARNER24)
 
 Lo que aprenderás
 - Aprenderán a utilizar Microsoft Excel desde Cero hasta Avanzado
