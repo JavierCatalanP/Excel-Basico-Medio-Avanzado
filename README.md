@@ -203,7 +203,7 @@ El temario de nuestro curso incluye:
   - 23.5.- Diseño Rápido
   - 23.6.- Eje Secundario en Gráficos
 
-- [SECCIÓN 24]() - POWER QUERY EN EXCEL
+- [SECCIÓN 24](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/24.-%20Power%20Query%20En%20Excel) - POWER QUERY EN EXCEL
   - 24.1.- Introducción a Power Query
   - 24.2.- Editor de Power Query - parte 1
   - 24.3.- Editor de Power Query - parte 2
@@ -227,7 +227,7 @@ El temario de nuestro curso incluye:
   - 24.21.-Anexar Consultas en Power Query
   - 24.22.-Extraer Información de un Folder
 
-- [SECCIÓN 25]() - CLASE FINAL
+- [SECCIÓN 25](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/25.-%Clase%20Final) - CLASE FINAL
   - 25.1.- Clase Final
 ```
 URL aquí
