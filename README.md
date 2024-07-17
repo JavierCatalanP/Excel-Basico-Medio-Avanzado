@@ -164,7 +164,6 @@ El temario de nuestro curso incluye:
   - 18.1.- Opciones Avanzadas en Excel
   - 18.2.- Momento en que se ejecuta una Fórmula en Excel
 
-
 - [SECCIÓN 19]() - SEGURIDAD EN EXCEL
   - 19.1.- Preparar un Libro de Excel para su Entrega
   - 19.2.- Proteger Celdas y Hojas en Excel
@@ -172,7 +171,6 @@ El temario de nuestro curso incluye:
   - 19.4.- Proteger un Libro en Excel
   - 19.5.- Encriptar Libro en Excel
   - 19.6.- Encriptar Libro en Excel - parte 2
-
 
 - [SECCIÓN 20]() - MACROS EN EXCEL
   - 20.1.- Macros en Excel
@@ -183,18 +181,54 @@ El temario de nuestro curso incluye:
   - 20.6.- Modificar una Macro en Excel
   - 20.7-  Uso de Controles en Excel
 
-- [SECCIÓN 21]() - 
+- [SECCIÓN 21]() - FUNCIONES FINANCIERAS Y MÁS EN EXCEL
+  - 21.1.- Manejo de Fechas en Excel
+  - 21.2.- Función Buscar Objetivo en Excel
+  - 21.3.- Manejo de Escenarios en Excel
+  - 21.4.- Uso de Función de Pago en Excel
+  - 21.5.- Función Pago Principal en Excel
+  - 21.6.- Función Pago de Interés en Excel
+  - 21.7.- Función de Valor Futuro en Excel
 
+- [SECCIÓN 22]() - FORMATOS CONDICIONALES EN EXCEL
+  - 22.1.- Formatos Condicionales en Excel
+  - 22.2.- Formatos Condicionales en Excel - parte 2
+  - 22.3.- Formatos Condicionales en Excel - parte 3
 
-- [SECCIÓN 22]() - 
+- [SECCIÓN 23]() - MÁS GRÁFICOS EN EXCEL
+  - 23.1.- Agregar más Series de Datos en un Gráfico
+  - 23.2.- Cambiar un Gráfico entre Filas/Columnas
+  - 23.3.- Opción de Análisis Rápido en Excel
+  - 23.4.- Mostrar/Ocultar Elementos de un Gráfico
+  - 23.5.- Diseño Rápido
+  - 23.6.- Eje Secundario en Gráficos
 
+- [SECCIÓN 24]() - POWER QUERY EN EXCEL
+  - 24.1.- Introducción a Power Query
+  - 24.2.- Editor de Power Query - parte 1
+  - 24.3.- Editor de Power Query - parte 2
+  - 24.4.- Editor de Power Query - parte 3
+  - 24.5.- Editor de Power Query - parte 4
+  - 24.6.- Editor de Power Query - parte 5
+  - 24.7.- Carga de Datos en Power Query
+  - 24.8.- Tipos de Datos en Power Query
+  - 24.9.- Habilitar Pestaña de Power Pivot
+  - 24.10.-Funciones de Texto y Numéricas en Power Query
+  - 24.11.-Funciones de Fecha en Power Query
+  - 24.12.-Funciones Indice y de Condición en Power Query
+  - 24.13.-Transponer en Power Query
+  - 24.14.-Combinar Consultas en Power Query
+  - 24.15.-Relación entre Consultas en Power Query
+  - 24.16.-Relación Externa Izquierda en Power Query
+  - 24.17.-Relación Externa Derecha en Power Query
+  - 24.18.-Relación Externa Completa en Power Query
+  - 24.19.-Relación Interna en Power Query
+  - 24.20.-Relación Anti Izquierda y Anti Derecha en Power Query
+  - 24.21.-Anexar Consultas en Power Query
+  - 24.22.-Extraer Información de un Folder
 
-- [SECCIÓN 23]() -
-
-
-- [SECCIÓN 24]() - 
-
-- [SECCIÓN 25]() - 
+- [SECCIÓN 25]() - CLASE FINAL
+  - 25.1.- Clase Final
 ```
 URL aquí
 ```
