@@ -87,13 +87,11 @@ https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/4.-%20Li
 ```
 https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/5.-%20Tablas%20en%20Excel
 ```
-- SECCIÓN 06 - IMPRESIÓN EN EXCEL
+- [SECCIÓN 06](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/06.-%20Impresi%C3%B3n%20en%20Excel) - IMPRESIÓN EN EXCEL
     - 6.1.- Cabecero y Pie de Página en Excel
     - 6.2.- Ajustar Elementos en una Hoja
     - 6.3.- Impresión de Títulos
-```
-URL aquí
-```
+
 - SECCIÓN 07 - GRÁFOCOS EN EXCEL
     - 7.1.- Creación de Gráficos en Excel
     - 7.2.- Creación de Gráficos en Excel - parte 2
