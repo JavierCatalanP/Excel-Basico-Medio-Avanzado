@@ -7,7 +7,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EA4E43&random=false&width=435&lines=Curso+ Impartido+por+Ubaldo+Acosta%3A" alt="Typing SVG" /></a>
  </div>
-Practicas sacada del curso en Udemy, link del curso: https://www.udemy.com/share/103uHG3@6uD81nfZqET-1SzX4V92jHF_9MtKHRY6lUUpexzHQ_HdoJA3wmUftGf_iEB_90Sz/ 
+Practicas sacada del curso en Udemy, link del curso: [Aquí](https://www.udemy.com/share/103uHG3@6uD81nfZqET-1SzX4V92jHF_9MtKHRY6lUUpexzHQ_HdoJA3wmUftGf_iEB_90Sz/)
 
 Lo que aprenderás
 - Aprenderán a utilizar Microsoft Excel desde Cero hasta Avanzado
@@ -23,21 +23,18 @@ Lo que aprenderás
 - Macros y VBA en Excel
 Y muchísimos temas más
 
-
-# Master en Excel más completo. Incluye Funciones, Tablas Dinámicas, Gráficos, Power Query , Macros y más a profundidad!``
+# Master en Excel más completo. Incluye Funciones, Tablas Dinámicas, Gráficos, Power Query , Macros y más a profundidad!
 
 El temario de nuestro curso incluye:
-- SECCIÓN 01 - INTRODUCCIÓN A EXCEL
+- [SECCIÓN 01](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/1.-Introduccion_a_Excel) - INTRODUCCIÓN A EXCEL
     - 1.1.- Introducción a Excel
     - 1.2.- Manejo de Libros en Excel
     - 1.3.- Uso de Hojas en Excel
     - 1.4.- Celdas, Columnas y Filas en Excel
     - 1.5.- Manejor de Rangos en Excel
         - Seleccionar Rango -> Pesaña Fórmulas -> Botón "Nombres definidos" -> "Administrador de nombres"o "Asignar nombre". Con esto se guarda o almacena un rango definido.
-```
-https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/1.-Introduccion_a_Excel
-```
-- SECCIÓN 02 - MANEJOS DE DATOS EN EXCEL
+
+- [SECCIÓN 02](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/2.-%20Manejo%20de%20Datos%20en%20Excel) - MANEJOS DE DATOS EN EXCEL
     - 2.1.- Manejo de Datos en Excel
     - 2.2.- Autorrellenado de Datos en Excel
     - 2.3.- Mostrar u Ocultar Celdas
@@ -45,10 +42,8 @@ https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/1.-Intro
     - 2.5.- Aplicando Formatos a Celdas de Manera Manual
     - 2.6.- Aplicando Formatos de Moneda y Fecha en Excel
     - 2.7.- Guardando Estilos Personalizados
-```
-https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/2.-%20Manejo%20de%20Datos%20en%20Excel
-```
-- SECCIÓN 03 - MANEJO DE CELDÁS, FÓRMULAS Y FUNCIONES EN EXCEL
+
+- [SECCIÓN 03](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/3.-%20Manejo%20de%20Celdas%20Formulas%20y%20Funciones%20en%20Excel) - MANEJO DE CELDÁS, FÓRMULAS Y FUNCIONES EN EXCEL
     - 3.1.- Manejo de Fórmulas en Excel
     - 3.2.- Manejo de Funciones en Excel
     - 3.3.- Selección de Rangos
@@ -67,71 +62,55 @@ https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/2.-%20Ma
     - 3.16.- Solución Ejercicio Control Ingresos - Egresos - parte 3
     - 3.17.- Solución Ejercicio Control Ingresos - Egresos - parte 4
     - 3.18.- Solución Ejercicio Control Ingresos - Egresos - parte 5
-```
-https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/3.-%20Manejo%20de%20Celdas%20Formulas%20y%20Funciones%20en%20Excel
-```
-- SECCIÓN 04 - LISTAS EN EXCEL
+
+- [SECCIÓN 04](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/4.-%20Listas%20en%20Excel) - LISTAS EN EXCEL
     - 4.1.- Inmovilizar Páneles en Excel
     - 4.2.- Ordenamiento de Celdas en Excel
     - 4.3.- Aplicar Filtros en una Lista de Excel
     - 4.4.- Quitar Elementos Duplicados de una Lista
     - 4.5.- Filtros Avanzados en Excel
-```
-https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/4.-%20Listas%20en%20Excel
-```
-- SECCIÓN 05 - TABLAS EN EXCEL
+
+- [SECCIÓN 05](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/5.-%20Tablas%20en%20Excel) - TABLAS EN EXCEL
     - 5.1.- Tablas en Excel
     - 5.2.- Segmentación de Datos de una Tabla
     - 5.3.- Buscar y Reemplazar Texto en Excel
     - 5.4.- Valiación de Datos usando una Lista en Excel
-```
-https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/5.-%20Tablas%20en%20Excel
-```
+
 - [SECCIÓN 06](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/06.-%20Impresi%C3%B3n%20en%20Excel) - IMPRESIÓN EN EXCEL
     - 6.1.- Cabecero y Pie de Página en Excel
     - 6.2.- Ajustar Elementos en una Hoja
     - 6.3.- Impresión de Títulos
 
-- SECCIÓN 07 - GRÁFOCOS EN EXCEL
+- [SECCIÓN 07](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/07.-%20Gr%C3%A1ficos%20en%20Excel) - GRÁFOCOS EN EXCEL
     - 7.1.- Creación de Gráficos en Excel
     - 7.2.- Creación de Gráficos en Excel - parte 2
     - 7.3.- Mini Gráficos en Excel
     - 7.4.- Ejercicio de Gráficos en Excel
-```
-URL aquí
-```
-- SECCIÓN 08 - ESQUEMAS Y SUBTOTALES EN EXCEL
+
+- [SECCIÓN 08](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/08.-%20Esquemas%20y%20Subtotales%20en%20Excel) - ESQUEMAS Y SUBTOTALES EN EXCEL
     - 8.1.- Manejo de Esquemas en Excel
     - 8.2.- Manejo de Subtotales en Excel
     - 8.3.- Solución del Ejercicio - Manejo de Subtotales
-```
-URL aquí
-```
-- SECCIÓN 09 - VISTAS EN EXCEL
+
+- [SECCIÓN 09](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/09.-%20Vistas%20en%20Excel) - VISTAS EN EXCEL
     - 9.1.- Manejo de Vistas en Excel
     - 9.2.- Nueva Ventana en Excel
     - 9.3.- Vistas Personalizadas en Excel
-```
-URL aquí
-```
-- SECCIÓN 10 - ENZALANDO ARCHIVOS EN EXCEL
+
+- [SECCIÓN 10](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/10.-%20Enzalando%20Archivos%20Excel) - ENZALANDO ARCHIVOS EN EXCEL
     - 10.1.- Manejo de Fórmulas con distintos Archivos en Excel
     - 10.2.- Ejercicio - Manejo de Fórmulas con distintos Archivos
     - 10.3.- Enlace entre Archivos
     - 10.4.- Consolidación de Datos en Excel
-```
-URL aquí
-```
-- SECCIÓN 11 - MANEJO DE FUNCIONES DE TEXTO EN EXCEL
+
+- [SECCIÓN 11](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/11.-%20Manejo%20de%20Funciones%20de%20texto%20en%20Excel) - MANEJO DE FUNCIONES DE TEXTO EN EXCEL
     - 11.1.- Funciones de Texto en Excel
     - 11.2.- Función Extrae en Excel
     - 11.3.- Función Derecha en Excel
     - 11.4.- Función Concatenar en Excel
     - 11.5.- Funciones de Mayúsculas, Minúsculas y Nombre Propio en Excel
-```
-URL aquí
-```
-- SECCIÓN 12 - MANEJOS DE FUNCIONES LÓGICAS EN EXCEL
+
+- [SECCIÓN12](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/12.-%20Manejos%20de%20Funciones%20L%C3%B3gicas%20en%20Excel) - MANEJOS DE FUNCIONES LÓGICAS EN EXCEL
     - 12.1.- Operadores Lógicos de Comparación en Excel
     - 12.2.- Operadores Lógicos de Comparación en Excel - parte 2
     - 12.3.- Función Y en Excel
@@ -140,28 +119,22 @@ URL aquí
     - 12.6.- Función Anidadas en Excel
     - 12.7.- Función Anidadas - Ejercicios
     - 12.8.- Funciones Anidadas - Solución
-```
-URL aquí
-```
-- SECCIÓN 13 - EJERCICIOS EXTRAS DE FUNCIONES
+
+- [SECCIÓN 13](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/13.-%20Ejercicios%20Extra%20de%20Funciones) - EJERCICIOS EXTRAS DE FUNCIONES
   -  13.1.- Conversión de Número a Texto - Ejercicio
   -  13.2.- Conversión de Número a Texto - Solución
   -  13.3.- Cálculo del Bono - Ejercicio
   -  13.4.- Cálculo del Bono - Solución
-```
-URL aquí
-```
-- SECCIÓN 14 - MÁS FUNCIONES EN EXCEL 
+
+- [SECCIÓN 14](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/14.-%20M%C3%A1s%20Funciones%20en%20Excel) - MÁS FUNCIONES EN EXCEL 
   - 14.1.- Función Sumar.Si en Excel
   - 14.2.- Función Promedio.Si en Excel 
   - 14.3.- Función Contar.Si en Excel
   - 14.4.- Función Sumar.Si.Conjunto en Excel
   - 14.5.- Función Promedio.Si.Conjunto en Excel
   - 14.6.- Función Contar.Si.Conjunto en Excel
-```
-URL aquí
-```
-- SECCIÓN 15 - REVISIÓN DE ERRORES EN FÓRMULAS EN EXCEL
+
+- [SECCIÓN 15](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/15.-%20Revisi%C3%B3n%20de%20Errores%20en%20F%C3%B3rmulas%20en%20Excel) - REVISIÓN DE ERRORES EN FÓRMULAS EN EXCEL
   - 15.1.- Mostrar todas las fórmulas usadas en un documento en Excel
   - 15.2.- Rastreo de Precedentes en Excel
   - 15.3.- Rastreo de Dependientes en Excel
@@ -169,7 +142,59 @@ URL aquí
   - 15.5.- Evaluación de Fórmulas en Excel
   - 15.6.- Evaluación de Fórmulas en Excel - parte 2
   - 15.7.- Revisión de Errores en Fórmulas de Excel
+
+- [SECCIÓN 16]() - FUNCIÓN BUSCARV Y BUSCARH
+  - 16.1.- Función BuscarV en Excel
+  - 16.2.- Función BuscarH en Excel
+
+- [SECCIÓN 17]() - TABLAS DINÁMICAS EN EXCEL
+  - 17.1.- Tablas Dinámicas en Excel
+  - 17.2.- Creación de una Tabla Dinámica en Excel
+  - 17.3.- Más opciones en Tablas Dinámicas en Excel
+  - 17.4.- Campos de una Tabla Dinámica en Excel
+  - 17.5.- Agrupar Campos en una Tabla Dinámica
+  - 17.6.- Formato Campos en una Tabla Dinámica
+  - 17.7.- Agregando Nuevas Instancias de Campos
+  - 17.8.- Agregar Campos Calculados en Tablas Dinámicas
+  - 17.9.- Ver el Detalle de Filas en una Tabla Dinámica
+  - 17.10.-Gráficos Dinámicos en Excel
+  - 17.11.-Detalle desde Gráfica Dinámica en Excel
+
+- [SECCIÓN 18]() - MÁS OPCIONES EN EXCEL
+  - 18.1.- Opciones Avanzadas en Excel
+  - 18.2.- Momento en que se ejecuta una Fórmula en Excel
+
+
+- [SECCIÓN 19]() - SEGURIDAD EN EXCEL
+  - 19.1.- Preparar un Libro de Excel para su Entrega
+  - 19.2.- Proteger Celdas y Hojas en Excel
+  - 19.3.- Proteger Celdas en Excel - parte 2
+  - 19.4.- Proteger un Libro en Excel
+  - 19.5.- Encriptar Libro en Excel
+  - 19.6.- Encriptar Libro en Excel - parte 2
+
+
+- [SECCIÓN 20]() - MACROS EN EXCEL
+  - 20.1.- Macros en Excel
+  - 20.2.- Grabar una Macro con Referencias Relativas
+  - 20.3.- Guardar un Archivo con Macros
+  - 20.4.- Copiar Macros en Excel
+  - 20.5.- Botones y Macros en Excel
+  - 20.6.- Modificar una Macro en Excel
+  - 20.7-  Uso de Controles en Excel
+
+- [SECCIÓN 21]() - 
+
+
+- [SECCIÓN 22]() - 
+
+
+- [SECCIÓN 23]() -
+
+
+- [SECCIÓN 24]() - 
+
+- [SECCIÓN 25]() - 
 ```
 URL aquí
 ```
-- SECCIÓN 16 - 
