@@ -143,11 +143,11 @@ El temario de nuestro curso incluye:
   - 15.6.- Evaluación de Fórmulas en Excel - parte 2
   - 15.7.- Revisión de Errores en Fórmulas de Excel
 
-- [SECCIÓN 16]() - FUNCIÓN BUSCARV Y BUSCARH
+- [SECCIÓN 16](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/16.-%20Funci%C3%B3n%20BuscarV%20y%20BuscarH%20en%20Excel) - FUNCIÓN BUSCARV Y BUSCARH
   - 16.1.- Función BuscarV en Excel
   - 16.2.- Función BuscarH en Excel
 
-- [SECCIÓN 17]() - TABLAS DINÁMICAS EN EXCEL
+- [SECCIÓN 17](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/17.-%20Tablas%20Din%C3%A1micas%20en%20Excel) - TABLAS DINÁMICAS EN EXCEL
   - 17.1.- Tablas Dinámicas en Excel
   - 17.2.- Creación de una Tabla Dinámica en Excel
   - 17.3.- Más opciones en Tablas Dinámicas en Excel
@@ -160,11 +160,11 @@ El temario de nuestro curso incluye:
   - 17.10.-Gráficos Dinámicos en Excel
   - 17.11.-Detalle desde Gráfica Dinámica en Excel
 
-- [SECCIÓN 18]() - MÁS OPCIONES EN EXCEL
+- [SECCIÓN 18](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/18.-%20M%C3%A1s%20Opciones%20en%20Excel) - MÁS OPCIONES EN EXCEL
   - 18.1.- Opciones Avanzadas en Excel
   - 18.2.- Momento en que se ejecuta una Fórmula en Excel
 
-- [SECCIÓN 19]() - SEGURIDAD EN EXCEL
+- [SECCIÓN 19](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/19.-%20Seguridad%20en%20Excel) - SEGURIDAD EN EXCEL
   - 19.1.- Preparar un Libro de Excel para su Entrega
   - 19.2.- Proteger Celdas y Hojas en Excel
   - 19.3.- Proteger Celdas en Excel - parte 2
@@ -172,7 +172,7 @@ El temario de nuestro curso incluye:
   - 19.5.- Encriptar Libro en Excel
   - 19.6.- Encriptar Libro en Excel - parte 2
 
-- [SECCIÓN 20]() - MACROS EN EXCEL
+- [SECCIÓN 20](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/20.-%20Macros%20en%20Excel) - MACROS EN EXCEL
   - 20.1.- Macros en Excel
   - 20.2.- Grabar una Macro con Referencias Relativas
   - 20.3.- Guardar un Archivo con Macros
@@ -181,7 +181,7 @@ El temario de nuestro curso incluye:
   - 20.6.- Modificar una Macro en Excel
   - 20.7-  Uso de Controles en Excel
 
-- [SECCIÓN 21]() - FUNCIONES FINANCIERAS Y MÁS EN EXCEL
+- [SECCIÓN 21](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/21.-%20Funciones%20Financieras%20y%20m%C3%A1s%20en%20Excel) - FUNCIONES FINANCIERAS Y MÁS EN EXCEL
   - 21.1.- Manejo de Fechas en Excel
   - 21.2.- Función Buscar Objetivo en Excel
   - 21.3.- Manejo de Escenarios en Excel
@@ -190,12 +190,12 @@ El temario de nuestro curso incluye:
   - 21.6.- Función Pago de Interés en Excel
   - 21.7.- Función de Valor Futuro en Excel
 
-- [SECCIÓN 22]() - FORMATOS CONDICIONALES EN EXCEL
+- [SECCIÓN 22](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/22.-%20Formatos%20Condicionales%20en%20Excel) - FORMATOS CONDICIONALES EN EXCEL
   - 22.1.- Formatos Condicionales en Excel
   - 22.2.- Formatos Condicionales en Excel - parte 2
   - 22.3.- Formatos Condicionales en Excel - parte 3
 
-- [SECCIÓN 23]() - MÁS GRÁFICOS EN EXCEL
+- [SECCIÓN 23](https://github.com/JavierCatalanP/Excel-Basico-Medio-Avanzado/tree/main/23.-%20M%C3%A1s%20de%20Gr%C3%A1ficos) - MÁS GRÁFICOS EN EXCEL
   - 23.1.- Agregar más Series de Datos en un Gráfico
   - 23.2.- Cambiar un Gráfico entre Filas/Columnas
   - 23.3.- Opción de Análisis Rápido en Excel
